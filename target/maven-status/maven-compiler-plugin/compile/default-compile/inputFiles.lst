@@ -1,0 +1,15 @@
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/ui/UserIOConsoleImpl.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/vendingmachinecontroller/VendingMachineController.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/ui/VendingMachineView.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/vendingmachinedao/VendingMachineDataTransferException.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/vendingmachinedto/Merch.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/App.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/vendingmachineservicelayer/VendingMachineNoItemInventoryException.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/vendingmachineservicelayer/VendingMachineInsufficientFundsException.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/vendingmachineservicelayer/VendingMachineServiceLayerImpl.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/vendingmachinedao/VendingMachineDao.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/ui/UserIO.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/vendingmachineservicelayer/VendingMachineUnexistingSlotException.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/vendingmachinedto/ChangePurse.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/vendingmachineservicelayer/VendingMachineServiceLayer.java
+/home/apprentice/NetBeansProjects/VendingMachine/src/main/java/com/sguild/vendingmachine/vendingmachinedao/VendingMachineDaoImpl.java

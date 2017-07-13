@@ -1,0 +1,9 @@
+
+Holy Grail::1000000
+improper::input::fields
+radish::.10::10
+tomato::1.00::6
+onion::.85::4
+pepper::2.50::5
+watermelon::10::3
+elephant::.99::0

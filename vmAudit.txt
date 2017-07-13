@@ -1,0 +1,9 @@
+2017-06-08T10:52:17.958 : checkBalance: com.sguild.vendingmachine.vendingmachineservicelayer.VendingMachineInsufficientFundsException: Insufficient funds for pumpkin || Item cost: $10.00 || User's Balance: $1.00Desire: pumpkin ||  Cost: $10.00 || User's Credit: Desire: pumpkin ||  Cost: $10.00 || User's Credit: 
+2017-06-08T10:52:22.849 : checkItemStock: com.sguild.vendingmachine.vendingmachineservicelayer.VendingMachineNoItemInventoryException: elephant is out of stock.Desire: elephant ||  Cost: $0.99 || User's Credit: Desire: elephant ||  Cost: $0.99 || User's Credit: 
+2017-06-08T10:53:06.140 : checkBalance: com.sguild.vendingmachine.vendingmachineservicelayer.VendingMachineInsufficientFundsException: Insufficient funds for pumpkin || Item cost: $10.00 || User's Balance: $1.00Desire: pumpkin ||  Cost: $10.00 || User's Credit: 
+2017-06-08T10:53:12.449 : checkItemStock: com.sguild.vendingmachine.vendingmachineservicelayer.VendingMachineNoItemInventoryException: elephant is out of stock.Desire: elephant ||  Cost: $0.99 || User's Credit: 
+2017-06-08T10:54:52.410 : checkBalance: com.sguild.vendingmachine.vendingmachineservicelayer.VendingMachineInsufficientFundsException: Insufficient funds for pumpkin || Item cost: $10.00 || User's Balance: $1.00
+2017-06-08T10:54:58.191 : checkItemStock: com.sguild.vendingmachine.vendingmachineservicelayer.VendingMachineNoItemInventoryException: elephant is out of stock.
+2017-06-09T16:02:52.826 : checkItemStock: com.sguild.vendingmachine.vendingmachineservicelayer.VendingMachineNoItemInventoryException: elephant is out of stock.
+2017-06-09T16:03:59.587 : checkBalance: com.sguild.vendingmachine.vendingmachineservicelayer.VendingMachineInsufficientFundsException: Insufficient funds for onion || Item cost: $1.00 || User's Credit: $0.33
+2017-06-10T04:18:27.559 : checkItemStock: com.sguild.vendingmachine.vendingmachineservicelayer.VendingMachineNoItemInventoryException: elephant is out of stock.

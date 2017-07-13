@@ -1,0 +1,6 @@
+tomato::0.50::18
+onion::1.00::10
+radish::0.10::35
+pumpkin::10.00::2
+watermelon::5.00::3
+elephant::0.99::0
